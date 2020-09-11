@@ -1,6 +1,6 @@
 package fr.paniersfleriens.lespaniersfleriens;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         WebView webview = (WebView) findViewById(R.id.webview);
         webview.setWebViewClient(new WebViewClient());
-        webview.loadUrl("https://commandes.paniersfleriens.fr/");
+        webview.loadUrl("https://contrats.amapj.fr/b/flers");
         WebSettings webSettings = webview.getSettings();
         webSettings.setJavaScriptEnabled(true);
     }

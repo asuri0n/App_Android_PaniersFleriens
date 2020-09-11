@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Projet_Android_PaniersFleriens.iml" filepath="$PROJECT_DIR$/Projet_Android_PaniersFleriens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Projet_Android_PaniersFleriens-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Projet_Android_PaniersFleriens-app.iml" group="Projet_Android_PaniersFleriens/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecole404-Projet_Android_PaniersFleriens.iml" filepath="$PROJECT_DIR$/.idea/modules/ecole404-Projet_Android_PaniersFleriens.iml" group="Projet_Android_PaniersFleriens" />
     </modules>
   </component>
 </project>
